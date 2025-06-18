@@ -12,7 +12,7 @@ This project is great for a portfolio. It shows the best ways to do data enginee
 
 ## Project Requirements
 
-### Building a Data Warehouse
+### **Building a Data Warehouse**
 
 #### Objective
 Create a data warehouse using SQL Server to store sales data. This will help in generating reports and making better decisions.
@@ -23,3 +23,15 @@ Specifications
 - **Integration**: Merge both sources into one simple data model. The model should be easy to use for reports.
 - **Scope**: Use only the latest data. There is no need to store past records.
 - **Documentation**: Write clear instructions about the data model for business users and analysts.
+
+### **BI: Analytics & Reporting**
+
+#### **Objective**  
+Use SQL-based analytics to generate valuable insights. These insights will help businesses understand key trends and make better decisions.
+
+#### **Focus Areas**  
+- **Customer Behavior** – Analyze buying patterns and preferences.  
+- **Product Performance** – Measure how well different products are selling.  
+- **Sales Trends** – Track revenue changes and market shifts over time.  
+
+
